@@ -5,7 +5,7 @@ def send_email(message):
     port = 465
 
     username = "newsapi.py1@gmail.com"
-    password = "pycckxlshjodovqg"
+    password = "//your-password//"
 
     receiver = "newsapi.py1@gmail.com"
     context = ssl.create_default_context()
